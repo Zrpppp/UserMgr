@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UserMgr.Infrastracture/UserMgr.Infrastracture.csproj" Id="4e5504c8-e388-493a-b3cf-fa65efe9e938" />
+  <Project Path="UserMgr/UserMgr.Domain.csproj" />
+  <Project Path="WebApi/UserMgr.WebApi.csproj" Id="84d2ea36-6017-4894-b9ee-7d1b8a45af37" />
+</Solution>
